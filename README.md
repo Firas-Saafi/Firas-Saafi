@@ -34,49 +34,6 @@ Feel free to reach out if you have any questions or ideas to discuss!
   <img src="https://github-readme-stats.vercel.app/api?username=Firas-Saafi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-#### Experienced In:
-
-<div align="center">
-  <img src="https://img.icons8.com/color/96/000000/flutter.png" alt="Flutter Icon" />
-  <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TS Icon" />
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js Icon" />
-  <img src="https://img.icons8.com/ios/96/000000/laravel.png" alt="Laravel Icon" />
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JS Icon" />
-  <img src="https://img.icons8.com/color/96/000000/angularjs.png" alt="Angular Icon" />
-  <img src="https://img.icons8.com/color/96/000000/asp.png" alt="ASP.NET Icon" />
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB Icon" />
-  <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="Firebase Icon" />
-    <img src="https://img.icons8.com/color/96/000000/docker.png" alt="Docker Icon" />
-
-</div>
-
-
-#### 🔭 I’m currently working on...
-
-- Building innovative web applications that solve real-world problems.
-- Exploring the exciting realms of machine learning and artificial intelligence.
-- Contributing to open-source projects that make the world a better place.
-
-#### 🌱 I’m currently learning...
-
-- Enhancing my skills in mobile app development with technologies like Flutter.
-- Mastering web development with a focus on new programming languages and frameworks to expand my toolkit.
-- Exploring DevOps and cloud technologies for seamless deployment.
-
-
-#### 👯 I’m looking to collaborate on...
-
-- Creative projects that challenge the status quo and push boundaries.
-- Initiatives that promote diversity and inclusivity in the tech industry.
-- Anything that sparks your curiosity, let's build something amazing together!
-
-#### 🤔 I’m looking for help with...
-
-- Cutting-edge ideas that can shape the future of technology.
-- Finding the best practices in software architecture and design.
-- Optimizing my workflow and productivity - your insights are highly valued.
-
-
 
 
 Thanks for visiting my GitHub profile! Let's create and innovate together. 😄🚀
