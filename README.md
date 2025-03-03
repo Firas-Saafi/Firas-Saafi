@@ -27,13 +27,3 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076628109379)
 
 Feel free to reach out if you have any questions or ideas to discuss!
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Firas-Saafi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-
-
-Thanks for visiting my GitHub profile! Let's create and innovate together. 😄🚀
